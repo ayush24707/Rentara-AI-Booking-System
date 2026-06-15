@@ -35,3 +35,12 @@ https://renntaraa.vercel.app/
 ## Author
 
 Ayush Kumar Tiwari
+
+
+## Original Repository
+
+GitHub Repository: [Last-minute-Rentara](https://github.com/aggaditya2005/Last-minute-Rentara)
+
+## Live Demo
+
+https://renntaraa.vercel.app/
